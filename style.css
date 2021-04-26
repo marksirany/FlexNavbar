@@ -1,0 +1,15 @@
+.nav {
+    width: 720px;
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+}
+    
+.col {
+    width: 220px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    
+    align-items: flex-end;
+}
+
